@@ -1,0 +1,11 @@
+{
+    "name": "fluidinfo", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "Eric Seidel <gridaphobe@gmail.com>", 
+    "homepage": "http://www.fluidinfo.com",
+    "version": "0.1", 
+    "fullName": "Fluidinfo", 
+    "id": "jid1-AiwVfZ6h5L6xsQ", 
+    "icon": "data/icon.png",
+    "description": "Fluidinfo for Firefox!"
+}
