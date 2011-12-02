@@ -1,6 +1,6 @@
 {
     "name": "fluidinfo",
-    "license": "MPL 1.1/GPL 2.0/LGPL 2.1",
+    "license": "Apache License, version 2.0",
     "author": "Eric Seidel <gridaphobe@gmail.com>",
     "homepage": "http://fluidinfo.com",
     "version": "0.1",
